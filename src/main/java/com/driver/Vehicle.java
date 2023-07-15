@@ -35,4 +35,7 @@ public class Vehicle {
    public int getCurrentSpeed(){
         return this.currentSpeed;
    }
+   public String getName(){
+        return this.name;
+   }
 }
